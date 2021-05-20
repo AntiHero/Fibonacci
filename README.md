@@ -7,3 +7,4 @@ import fibonacci from '@aschemelev/fiblib';
 
 const res = fibonacci(10)
 ```
+
